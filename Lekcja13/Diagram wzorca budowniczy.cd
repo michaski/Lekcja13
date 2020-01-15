@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="lekcja13.Car">
+    <Position X="5.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAgAAAAQAAAAAAAAQBAgAAAAAAgA=</HashCode>
+      <FileName>Car.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="lekcja13.A4Builder">
+    <Position X="1" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAAAAAIAAAAAAAApAAAAAAAAAAAAAA=</HashCode>
+      <FileName>A4Builder.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Orientation="Right" Position="0.144" />
+  </Class>
+  <Class Name="lekcja13.ProductionCheef">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAE=</HashCode>
+      <FileName>ProductionCheef.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="lekcja13.IBuilder">
+    <Position X="3" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAAAAAIAAAAAAAApAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IBuilder.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
